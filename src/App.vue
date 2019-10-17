@@ -173,7 +173,7 @@ button:active {
     transform var(--transition-time) cubic-bezier(0.67, -0.35, 0.27, 0.98);
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
   html {
     font-size: 16px;
   }
