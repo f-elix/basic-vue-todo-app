@@ -44,7 +44,7 @@ export default {
   width: 100%;
 }
 
-@media screen and (min-width: 924px) {
+@media screen and (min-width: 824px) {
   .form .input {
     max-width: 45rem;
   }
