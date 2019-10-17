@@ -107,7 +107,7 @@ button.disabled {
   transition: all 0.3s ease-out;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 824px) {
   .todo {
     max-width: 52.5rem;
     justify-content: space-between;
