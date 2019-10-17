@@ -1,6 +1,6 @@
 # Basic Todo App
 
-A basic todo app with Vue.js.
+A basic todo app made with Vue.js.
 
 Features:
 
