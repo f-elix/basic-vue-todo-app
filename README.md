@@ -1,6 +1,15 @@
 # Basic Todo App
 
-A basic todo app with darkmode made with Vue.js.
+A basic todo app with Vue.js.
+
+Features:
+
+- Create task
+- Delete task
+- Edit task
+- Mark/unmark task as done
+- Clear whole list
+- Darkmode/lightmode
 
 ## Project setup
 
